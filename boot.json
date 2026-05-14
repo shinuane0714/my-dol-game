@@ -1,0 +1,10 @@
+{
+  "name": "Degrees of Lewdity",
+  "version": "0.5.8.10",
+  "modList": [
+    "mods/maplebirch.mod.zip",
+    "mods/ModI18N.mod.zip",
+    "mods/GameOriginalImagePack.mod.zip",
+    "mods/cheat_extended.mod.zip"
+  ]
+}
