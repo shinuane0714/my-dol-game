@@ -1,16 +1,16 @@
 {
   "name": "Degrees of Lewdity",
-  "version": "0.5.8.10",
+  "version": "0.5.8.10-v2",
   "modList": [
-    "mods/maplebirch.mod.zip",
-    "mods/ModI18N.mod.zip",
-    "mods/GameOriginalImagePack.mod.zip",
-    "mods/DOLI.mod.zip",
-    "mods/DefrockMod.mod.zip",
-    "mods/DoLSims.mod.zip",
-    "mods/More.Love.Interests.Mod.mod.zip",
-    "mods/NPC.Avatars.Mod.mod.zip",
-    "mods/Mea.s.Picvary.NPC.all.mod.1.3.2.zip",
-    "mods/cheat_extended.mod.zip"
+    "mods/maplebirch_v2.zip",
+    "mods/ModI18N_v2.zip",
+    "mods/GameOriginalImagePack_v2.zip",
+    "mods/DOLI_v2.zip",
+    "mods/DefrockMod_v2.zip",
+    "mods/DoLSims_v2.zip",
+    "mods/More.Love.Interests.Mod_v2.zip",
+    "mods/NPC.Avatars.Mod_v2.zip",
+    "mods/Mea.s.Picvary.NPC.all.mod.1.3.2_v2.zip",
+    "mods/cheat_extended_v2.zip"
   ]
 }
